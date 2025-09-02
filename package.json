@@ -12,6 +12,7 @@
     "@clerk/nextjs": "^6.31.6",
     "framer-motion": "^12.23.12",
     "ingest": "^1.0.0",
+    "inngest": "^3.40.1",
     "mongoose": "^8.18.0",
     "next": "^15.5.2",
     "react": "^19.1.1",
